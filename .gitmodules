@@ -1,0 +1,7 @@
+[submodule "themes/anatole"]
+	path = themes/anatole
+	url = https://github.com/lxndrblz/anatole
+[submodule "public"]
+	path = public
+	url = https://github.com/chaos998/chaos998.github.io
+	branch = master
