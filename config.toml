@@ -7,7 +7,7 @@ theme = "anatole"
 title = "I'm Gopher"
 description = "Happy Gopher"
 profilePicture = "images/profile.jpg"
-
+favicon = "favicons/"
 [menu]
     [[menu.main]]
     name = "Home"
