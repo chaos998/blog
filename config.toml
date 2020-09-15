@@ -1,4 +1,28 @@
-baseURL = "http://example.org/"
+baseURL = "https://chaos998.github.io"
 languageCode = "ko-KR"
 title = "Hello Programmer"
 theme = "anatole"
+
+[params]
+title = "I'm Gopher"
+description = "Happy Gopher"
+profilePicture = "images/profile.jpg"
+
+[menu]
+    [[menu.main]]
+    name = "Home"
+    identifier = "home"
+    weight = 100
+    url = "/"
+
+    [[menu.main]]
+    name = "Programming"
+    weight = 200
+    identifier = "programming"
+    url = "/programming/"
+
+    [[menu.main]]
+    name = "About"
+    weight = 300
+    identifier = "about"
+    url = "/about/"
